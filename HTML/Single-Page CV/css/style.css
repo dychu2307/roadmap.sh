@@ -1,0 +1,15 @@
+body {
+    border: 2px black solid;
+    width: fit-content;
+    margin: 20px;
+    padding: 20px;
+    font-family: systems-ui, sans-serif;
+}
+
+h2, h3 {
+    color: green;
+}
+
+h4 {
+    color: blue;
+}
